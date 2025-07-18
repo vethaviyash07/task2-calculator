@@ -23,8 +23,6 @@ A **simple calculator** application built using **JavaFX**.
 
 ## 📸 Sample UI
 
-To display it in the README:
-
 ![Calculator UI](sample2.png)
 
 
