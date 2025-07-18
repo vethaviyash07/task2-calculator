@@ -1,38 +1,42 @@
-project:
-  name: task2-calculator
-  description: Simple calculator built using JavaFX
+# Task 2 – JavaFX Calculator
 
-technologies:
-  - Java
-  - JavaFX
+A **simple calculator** application built using **JavaFX**.
 
-structure:
-  root: task2-calculator/
-  files:
-    - main/
-    - main/src/
-    - main/src/main/
-    - main/src/main/java/
-    - main/src/main/java/com/
-    - main/src/main/java/com/example/
-    - main/src/main/java/com/example/javafx/
-    - main/src/main/java/com/example/javafx/CalculatorController.java
-    - main/src/main/java/com/example/javafx/CalculatorUI.java
-    - main/src/main/java/com/example/javafx/MainApp.java
+---
 
-image:
-  description: Sample Calculator UI
-  file: sampleimage.png
+## 💻 Technologies Used
 
-instructions:
-  prerequisites:
-    - Java installed
-    - JavaFX configured
-  run:
-    - Open the project in IntelliJ IDEA or Eclipse
-    - Run MainApp.java
+- **Java**
+- **JavaFX**
 
-author:
-  name: vethaviyash07
+---
+
+## 📁 Project Structure
+
+task2-calculator/
+└── main/
+└── src/
+└── main/
+└── java/
+└── com/
+└── example/
+└── javafx/
+├── CalculatorController.java
+├── CalculatorUI.java
+└── MainApp.java
+
+
+---
+
+## 📸 Sample UI
+
+> Add your calculator UI screenshot here:
+
+
+To display it in the README:
+
+```markdown
+![Calculator UI](sampleimage2.png)
+
 
 
