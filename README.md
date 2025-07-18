@@ -13,14 +13,7 @@ A **simple calculator** application built using **JavaFX**.
 
 ## 📁 Project Structure
 
-task2-calculator/
 └── main/
-└── src/
-└── main/
-└── java/
-└── com/
-└── example/
-└── javafx/
 ├── CalculatorController.java
 ├── CalculatorUI.java
 └── MainApp.java
@@ -36,7 +29,7 @@ task2-calculator/
 To display it in the README:
 
 ```markdown
-![Calculator UI](sampleimage2.png)
+![Calculator UI](sample2.png)
 
 
 
